@@ -11,7 +11,7 @@
 <h2>Project Screenshots:</h2>
 
 <div align="center">
-<img src="https://github.com/Spawn9986/foodTruckERD/blob/main/ERD.jpg" alt="project screenshot" width="547" height="436"/>
+<img src="https://github.com/Spawn9986/foodTruckERD/blob/main/ERD.png" alt="project screenshot" width="547" height="436"/>
 </div>
 
 <h2>💻 Built with</h2>
